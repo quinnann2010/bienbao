@@ -1,7 +1,5 @@
 <br>
  
- <img src="Background.jpg" alt="Ảnh cô ấy" style="border: 5px solid #FF6347; border-radius: 10px; width: 300px; height: auto;">
-
 # BienBao: Traffic Sign Recognition Using Deep Learning
 
 ## Overview
