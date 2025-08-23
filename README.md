@@ -1,7 +1,5 @@
 <br>
- 
- <img src="Background.jpg" alt="Ảnh cô ấy" style="border: 5px solid #FF6347; border-radius: 10px; width: 300px; height: auto;">
- <img src="Background.jpg" alt="Ảnh cô ấy" style="border: 5px solid #FF6347; border-radius: 10px; width: 500px; height: auto;">
+
  
  
  # 🌟 **Dự án Biển Báo - Biến Mỗi Biển Báo Thành Một Tác Phẩm Nghệ Thuật** 🌟
